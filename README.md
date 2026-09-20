@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=rusa1212&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/rusa1212"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 **rusa1212/rusa1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
