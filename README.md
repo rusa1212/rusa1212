@@ -8,6 +8,14 @@
 />
 </a>
 
+### 📊 GitHub Stats
+
+<!-- 종합 통계 카드 -->
+![rusa1212's GitHub stats](https://vercel.app)
+
+<!-- 주로 사용하는 언어 카드 -->
+![rusa1212's Top Langs](https://vercel.app)
+
 <!--
 **rusa1212/rusa1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
