@@ -9,6 +9,23 @@
 </a>
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rusa1212&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusa1212&layout=compact)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **rusa1212/rusa1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
